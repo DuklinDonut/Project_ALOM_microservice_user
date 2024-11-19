@@ -1,0 +1,7 @@
+alom/server/MyResource.class
+resource/UserResource.class
+model/User.class
+service/UserService.class
+alom/server/resource/UserResource.class
+JerseyConfig.class
+MainApplication.class
